@@ -36,7 +36,9 @@ She told me any two under the Humanities category. Although, I recommend doing A
 ### History (EHIS)
 
 * HIS-113: United States History 1
+  * Also counts for HIS-100
 * HIS-114: United States History 2
+  * Also counts for HIS-200
 
 ### Free Electives
 
