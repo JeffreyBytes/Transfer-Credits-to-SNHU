@@ -1,6 +1,5 @@
 # Transferring Credits to SNHU
 
-
 SNHU is one of the most generous colleges when it comes to credits transfers. They allow you to transfer 45 credits towards an Associate’s degree and 90 towards a Bachelor's degree, saving you time and money in the long run. SNHU does accept credits from a large number of sources, some of which I will describe below. SNHU allows you to transfer credits whenever! For example, I took a single course at SNHU while I worked on two more at Sophia. Once I finished up the Sophia course, I transferred the credits over.
 
 As a side note: I am a Computer Science major, this may not all apply to your degree path. Most of the information will!
@@ -10,7 +9,6 @@ If you would prefer to get this information from SNHU, here is the link to their
 ## Sophia
 
 https://snhu.sophia.org/
-
 
 Sophia is my favorite way to earn credits in your free time. Instead of having a fee to pay per course you take, Sophia operates under a subscription-based model. They charge a monthly fee of $80 where you could gain access to their entire catalog of content. Most of the courses there could be finished from within a day to a month of work. The only downside is that their courses cover the general education courses and the free electives if you choose.
 
@@ -64,6 +62,4 @@ SNHU offers two different assessments for testing out of mathematics courses. Ea
 
 First, there is a Calculus Pathway that counts towards MAT-136: Quantitative Analysis and MAT-140: Pre-Calculus. Then there is the Statistics Pathway which consists of MAT-133: Intro to Statistical Analysis and MAT-240: Applied Statistics. MAT-240 could be petitioned to become MAT-243 after completing IT-140 and talking to your advisor.
 
-
 If any information is incorrect or out of date, feel free to do a pull request to this repo or email me at email@BrandonBolton.com
-
