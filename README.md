@@ -14,31 +14,31 @@ Sophia is my favorite way to earn credits in your free time. Instead of having a
 
 When I first started taking courses at Sophia, I reached out to my advisor. These courses are what my advisor told me I should take to fill up my general education:
 
-### English:
+### English
 
 English-122: English Composition 1
 English-123: English Composition 2
 
-### Mathematics:
+### Mathematics
 
 MAT-136: Quantitative Analysis
 MAT-240: Introduction to Statistics (Note: You can petition this course to become MAT-243 which is required for Comp Science degrees once you complete IT-140.)
 
-### Fine Arts and Humanities (EFAH):
+### Fine Arts and Humanities (EFAH)
 
 She told me any two under the Humanities category. Although, I recommend doing Ancient Greek Philosophers and Approaches to Studying Religions. Those were the fastest and easiest to complete.
 
-### Social and Behavioral Sciences (ESBS):
+### Social and Behavioral Sciences (ESBS)
 
 PSY-108: Introduction to Psychology
 SOC-112: Introduction to Sociology
 
-### History (EHIS):
+### History (EHIS)
 
 HIS-113: United States History 1
 HIS-114: United States History 2
 
-### Free Electives:
+### Free Electives
 
 As for free electives, you have nine credits to do with as you please. For mine, I ended up transferring to three more courses from Sophia that were easy to do.
 
