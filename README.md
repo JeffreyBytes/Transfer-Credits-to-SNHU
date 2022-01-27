@@ -16,13 +16,13 @@ When I first started taking courses at Sophia, I reached out to my advisor. Thes
 
 ### English
 
-English-122: English Composition 1
-English-123: English Composition 2
+* English-122: English Composition 1
+* English-123: English Composition 2
 
 ### Mathematics
 
-MAT-136: Quantitative Analysis
-MAT-240: Introduction to Statistics (Note: You can petition this course to become MAT-243 which is required for Comp Science degrees once you complete IT-140.)
+* MAT-136: Quantitative Analysis
+* MAT-240: Introduction to Statistics (Note: You can petition this course to become MAT-243 which is required for Comp Science degrees once you complete IT-140.)
 
 ### Fine Arts and Humanities (EFAH)
 
@@ -30,13 +30,13 @@ She told me any two under the Humanities category. Although, I recommend doing A
 
 ### Social and Behavioral Sciences (ESBS)
 
-PSY-108: Introduction to Psychology
-SOC-112: Introduction to Sociology
+* PSY-108: Introduction to Psychology
+* SOC-112: Introduction to Sociology
 
 ### History (EHIS)
 
-HIS-113: United States History 1
-HIS-114: United States History 2
+* HIS-113: United States History 1
+* HIS-114: United States History 2
 
 ### Free Electives
 
