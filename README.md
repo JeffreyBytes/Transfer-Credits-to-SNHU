@@ -50,6 +50,15 @@ As for free electives, you have nine credits to do with as you please. For mine,
 
 Study.com is similar to Sophia.org where they use the subscription-based model. Although, they charge $199 a month for their service. What is nice about Study is that they do not just offer general education courses, they also offer degree core courses. I have not used Study.com. From what I have been told is that if the course looks like it will transfer, the odds are it will. Although, that does need approval from your advisor first though.
 
+Students have received approvals for the following courses, but you will need to check with your advisor before taking.
+
+* [ENG-123: English Composition 2](https://study.com/academy/course/english-205-english-composition-ii.html)
+* [PHY-150: Intro to Physics](https://study.com/academy/course/physics-111-physics-i.html)
+* [MAT-225: Calculus 1](https://study.com/academy/course/calculus.html)
+* [MAT-230: Discrete Mathematics](https://study.com/academy/course/math-108-discrete-mathematics.html)
+* [CS-300: Data Structures and Algorithms](https://study.com/academy/course/computer-science-201-data-structures.html)
+* [CS-370: Current/Emerging Trends in CS](https://study.com/academy/course/computer-science-310-current-trends-in-computer-science-it.html)
+
 ## Certificates
 
 <https://www.snhu.edu/admission/transferring-credits/work-life-experience/it-certifications>
