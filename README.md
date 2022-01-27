@@ -1,9 +1,9 @@
 # Transferring Credits to SNHU
 
 
-SNHU is one of the most generous colleges when it comes to credits transfers. They allow you to transfer 45 credits towards an Associate’s degree and 90 towards a Bachelor's degree, saving you time and money in the long run. SNHU does accept credits from a large number of sources, some of which I will describe below. SNHU allows you to transfer credits whenever! For example, I took a single course at SNHU while I worked on two more at Sophia. Once I finished up the Sophia course, I transferred the credits over. 
+SNHU is one of the most generous colleges when it comes to credits transfers. They allow you to transfer 45 credits towards an Associate’s degree and 90 towards a Bachelor's degree, saving you time and money in the long run. SNHU does accept credits from a large number of sources, some of which I will describe below. SNHU allows you to transfer credits whenever! For example, I took a single course at SNHU while I worked on two more at Sophia. Once I finished up the Sophia course, I transferred the credits over.
 
-As a side note: I am a Computer Science major, this may not all apply to your degree path. Most of the information will! 
+As a side note: I am a Computer Science major, this may not all apply to your degree path. Most of the information will!
 
 If you would prefer to get this information from SNHU, here is the link to their website: https://www.snhu.edu/admission/transferring-credits/work-life-experience/testing-out
 
@@ -12,7 +12,7 @@ If you would prefer to get this information from SNHU, here is the link to their
 https://snhu.sophia.org/
 
 
-Sophia is my favorite way to earn credits in your free time. Instead of having a fee to pay per course you take, Sophia operates under a subscription-based model. They charge a monthly fee of $80 where you could gain access to their entire catalog of content. Most of the courses there could be finished from within a day to a month of work. The only downside is that their courses cover the general education courses and the free electives if you choose. 
+Sophia is my favorite way to earn credits in your free time. Instead of having a fee to pay per course you take, Sophia operates under a subscription-based model. They charge a monthly fee of $80 where you could gain access to their entire catalog of content. Most of the courses there could be finished from within a day to a month of work. The only downside is that their courses cover the general education courses and the free electives if you choose.
 
 When I first started taking courses at Sophia, I reached out to my advisor. These courses are what my advisor told me I should take to fill up my general education:
 
@@ -28,7 +28,7 @@ MAT-240: Introduction to Statistics (Note: You can petition this course to becom
 
 ### Fine Arts and Humanities (EFAH):
 
-She told me any two under the Humanities category. Although, I recommend doing Ancient Greek Philosophers and Approaches to Studying Religions. Those were the fastest and easiest to complete. 
+She told me any two under the Humanities category. Although, I recommend doing Ancient Greek Philosophers and Approaches to Studying Religions. Those were the fastest and easiest to complete.
 
 ### Social and Behavioral Sciences (ESBS):
 
@@ -42,19 +42,19 @@ HIS-114: United States History 2
 
 ### Free Electives:
 
-As for free electives, you have nine credits to do with as you please. For mine, I ended up transferring to three more courses from Sophia that were easy to do. 
+As for free electives, you have nine credits to do with as you please. For mine, I ended up transferring to three more courses from Sophia that were easy to do.
 
 ## Study.com
 
 https://study.com/academy/goal/transferable-credit/online-college-credit.html
 
-Study.com is similar to Sophia.org where they use the subscription-based model. Although, they charge $199 a month for their service. What is nice about Study is that they do not just offer general education courses, they also offer degree core courses. I have not used Study.com. From what I have been told is that if the course looks like it will transfer, the odds are it will. Although, that does need approval from your advisor first though. 
+Study.com is similar to Sophia.org where they use the subscription-based model. Although, they charge $199 a month for their service. What is nice about Study is that they do not just offer general education courses, they also offer degree core courses. I have not used Study.com. From what I have been told is that if the course looks like it will transfer, the odds are it will. Although, that does need approval from your advisor first though.
 
 ## Certificates
 
 https://www.snhu.edu/admission/transferring-credits/work-life-experience/it-certifications
 
-Professional Certificates are both excellent for resumes and credits! SNHU accepts a wide variety of certificates ranging from CompTIA to edx.org. This route could be a fast way to get credits if you are planning on getting certificates already! A personal favorite of mine is the Google IT Support Certificate from Coursera. It is an easy course that I completed within the free week trial and transfers in for 12 credits. I ended up using mine in place of my concentration to save more time and money! 
+Professional Certificates are both excellent for resumes and credits! SNHU accepts a wide variety of certificates ranging from CompTIA to edx.org. This route could be a fast way to get credits if you are planning on getting certificates already! A personal favorite of mine is the Google IT Support Certificate from Coursera. It is an easy course that I completed within the free week trial and transfers in for 12 credits. I ended up using mine in place of my concentration to save more time and money!
 
 ## Pathway to Math Success
 
