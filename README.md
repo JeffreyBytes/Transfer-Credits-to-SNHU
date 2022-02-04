@@ -1,3 +1,5 @@
+This list was made for the SNHU Unofficial Discord. Here is a link to join: https://www.discord.gg/SNHU
+
 # Transferring Credits to SNHU
 
 SNHU is one of the most generous colleges when it comes to credits transfers. They allow you to transfer 45 credits towards an Associate’s degree and 90 towards a Bachelor's degree, saving you time and money in the long run. SNHU does accept credits from a large number of sources, some of which I will describe below. SNHU allows you to transfer credits whenever! For example, I took a single course at SNHU while I worked on two more at Sophia. Once I finished up the Sophia course, I transferred the credits over.
